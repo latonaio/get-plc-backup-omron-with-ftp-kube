@@ -1,0 +1,13 @@
+{
+    "ftp-server" : "192.168.250.1",
+    "ftp-user" : "TMC",
+    "ftp-passwd" : "TMCR2020",
+    "ftp-backup-file" : [
+        "Backup/AutoloadCommand.ini",
+        "Backup/NJBackup.dat",
+        "Backup/RestoreCommand.ini"
+    ],
+    "backup-copy": {
+        "dest": "/UI/ui-backend-for-maintenance/public/uploads/"
+    }
+}
